@@ -8,7 +8,9 @@
 
 
 **- 🔭 I’m currently working on Android,Frontend development and Machine Learning.**
+
 **- 🌱 I’m currently learning programming languages:).**
+
 **- 👯 I’m looking to collaborate on Open Source Projects**
 
 
