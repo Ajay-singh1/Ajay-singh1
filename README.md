@@ -1,6 +1,6 @@
 ### Hi there 👋
-###I am Ajay Singh a passionate Computer Science Student.I love
-###to work on Android,Front End Development and Machine Learning.
+*I am Ajay Singh a passionate Computer Science Student.I love*
+*to work on Android,Front End Development and Machine Learning.*
 
 
 <!--
