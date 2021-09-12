@@ -1,4 +1,7 @@
 ### Hi there 👋
+###I am Ajay Singh a passionate Computer Science Student.I love
+###to work on Android,Front End Development and Machine Learning.
+
 
 <!--
 **Ajay-singh1/Ajay-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
