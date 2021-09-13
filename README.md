@@ -13,7 +13,10 @@
 
 **- 👯 I’m looking to collaborate on Open Source Projects**
 
+You can contact me at:
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 
