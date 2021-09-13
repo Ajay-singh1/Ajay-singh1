@@ -16,11 +16,11 @@
 
 You can contact me at:
 
-[![instagram][1.2]][1] or on [![LinkedIn][2.2]][2]
+[![instagram][1.2]][1] [![LinkedIn][2.2]][2]
 
 [1.2]:https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png
 [1]:https://www.instagram.com/_ajay_kripa
-[2.2]:https://static.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520
+[2.2]:
 [2]:https://www.linkedin.com/in/ajay-singh-a477b21aa
 
 
