@@ -20,6 +20,10 @@
 <a href="https://www.instagram.com/_ajay_kripa/">
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto:ajaykripa8736968359@gmail.com">
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
+
 
  
   
