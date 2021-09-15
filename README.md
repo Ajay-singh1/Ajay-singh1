@@ -13,7 +13,7 @@
 
 **- 👯 I’m looking to collaborate on Open Source Projects**
 
-<h2>Contact me:
+<h3>Contact me:
 
 <a href="www.instagram.com/_ajay_kripa"><img border="0" alt="instagram" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" width="100" height="100">
   
