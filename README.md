@@ -17,7 +17,9 @@
 <a href="https://www.linkedin.com/in/ajay-singh-a477b21aa/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://www.instagram.com/_ajay_kripa/">
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
  
   
