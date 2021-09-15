@@ -23,6 +23,9 @@
 <a href="mailto:ajaykripa8736968359@gmail.com">
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
+<a href="https://www.youtube.com/channel/UCQYp6u-OUotTweP8fF4noyA"/>
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+</a>
 
 
  
