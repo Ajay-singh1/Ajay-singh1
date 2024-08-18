@@ -4,8 +4,8 @@
 * I love to contribute to open source software projects because it gives the opportunity to do work collaboratively also making the applications more better and   efficient.Open source also allows developers to redistribute and modify the code under a specific license which is also a major advantage . Contributing to open source softwares gives a sense of satisfaction and also enhance skills which is a major advantage.
 
 
-### I am skilled in the following technologies - HTML,CSS,Javascript,React,R,MySQL,C++.
-### I love to contribute to Open Source Softwares and like to build cool projects.
+# I am skilled in the following technologies - HTML,CSS,Javascript,React,R,MySQL,C++.
+# I love to contribute to Open Source Softwares and like to build cool projects.
  
 
 
