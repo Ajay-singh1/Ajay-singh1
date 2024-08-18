@@ -6,8 +6,7 @@
 <ul>
    <li>I am skilled in the following technologies - HTML,CSS,Javascript,React,R,MySQL,C++.</li>
    <li>I love to contribute to Open Source Softwares and like to build cool projects.<li>
-   <li>I also love to travel , code , sleep in my free time.</li>  
-   <li>If you wish to connect just ping me on my social media handles I would love to have some chit chat with you.</li>
+ 
 </ul>
 
 
