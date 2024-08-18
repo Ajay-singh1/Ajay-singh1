@@ -14,7 +14,7 @@
 
 </ul>
  
-![GIF](https://tenor.com/view/work-office-computer-penguin-job-gif-10013904041284194281)
+![GIF](https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif)
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/ajay-singh-a477b21aa/">
