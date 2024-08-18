@@ -1,7 +1,7 @@
 ### Hi there 👋
-* I am <b> Ajay </b> a passionate Computer Science Student and loves to build websites and applications.Well I am specialised in front-end web development and also I have great experience in Javasvcript frameworks like React.js and I am now exploring other frameworks like angular which uses typescript in its core.I am also reallyinterested in web 3.0 technologies like solidity which are used to make smart contracts on the ethereum blockchain network.
+* I am <b> Ajay </b> a passionate Computer Science Student and loves to build websites and applications.Well I am specialised in front-end web development and also I have great experience in Javasvcript frameworks like React.js and I am now exploring other frameworks like angular which uses typescript in its core . I am also reallyinterested in web 3.0 technologies like solidity which are used to make smart contracts on the ethereum blockchain network.
 
-* I love to contribute to open source software projects because it gives the opportunity to do work collaboratively also making the applications more better and * * efficient.Open source also allows developers to redistribute and modify the code under a specific license which is also a major advantage.Contributing to open * * source softwares gives a sense of satisfaction and also enhance skills which is a major advantage.
+* I love to contribute to open source software projects because it gives the opportunity to do work collaboratively also making the applications more better and   efficient.Open source also allows developers to redistribute and modify the code under a specific license which is also a major advantage . Contributing to open source softwares gives a sense of satisfaction and also enhance skills which is a major advantage.
 
 
 ** - I am skilled in the following technologies - HTML,CSS,Javascript,React,R,MySQL,C++
