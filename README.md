@@ -14,8 +14,7 @@
 
 </ul>
  
-
-<div class="tenor-gif-embed" data-postid="10013904041284194281" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-office-computer-penguin-job-gif-10013904041284194281">Work Office Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![GIF](https://tenor.com/view/work-office-computer-penguin-job-gif-10013904041284194281)
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/ajay-singh-a477b21aa/">
