@@ -11,7 +11,6 @@
  
  <li>I also love to travel ,code and sleep.</li>
  </ul>
-
 ![GIF](https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif)
 
 ### Contact Me:
