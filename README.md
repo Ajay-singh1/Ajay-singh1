@@ -5,7 +5,7 @@
 
 
 <ul>
- <li>I am proficient in the following technologies - HTML , CSS , Javascript , React.js , C++ , MySQL , Git , R  </li>
+ <li>I am proficient in the following technologies - <b>HTML , CSS , Javascript , React.js , C++ , MySQL , Git , R</b>  </li>
  <li>I also love to travel ,code and sleep.</li>
  <li>If you wanna connect with me just ping me and I would love to have a chit chat with you.</li>
 </ul>
