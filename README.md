@@ -10,10 +10,8 @@
  <li>I am proficient in the following technologies - <b>HTML , CSS , Javascript , React.js , C++ , MySQL , Git , R</b>  </li></p>
  
  <li>I also love to travel ,code and sleep.</li>
- 
+ </ul>
 
-</ul>
- 
 ![GIF](https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif)
 
 ### Contact Me:
