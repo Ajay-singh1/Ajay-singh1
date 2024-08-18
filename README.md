@@ -11,7 +11,7 @@
  
  <li>I also love to travel ,code and sleep.</li>
  
- <li>If you wanna connect with me just ping me and I would love to have a chit chat with you.</li>
+
 </ul>
  
 
