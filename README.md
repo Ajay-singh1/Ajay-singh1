@@ -1,5 +1,6 @@
 ### Hi there 👋
 <p><em> I am <b> Ajay </b> a passionate Computer Science Student and loves to build websites and applications. Well I am specialised in front-end web development and also I have great experience in Javascript frameworks like React.js and I am now exploring other frameworks like angular which uses typescript in its core . I am also really interested in web 3.0 technologies like solidity which are used to make smart contracts on the ethereum blockchain network.</em></p>
+<br>
 
 
 
