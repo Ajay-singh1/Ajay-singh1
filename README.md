@@ -18,10 +18,10 @@
 ![GIF](https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif)
 
 ### Contact Me:
-<a href="https://www.linkedin.com/in/ajay-singh-a477b21aa/">
+<a href="https://www.linkedin.com/in/ajay-s1/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/agnostic_ajay/">
+<a href="https://www.instagram.com/_ajay_singh.10/">
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:ajaykripa8736968359@gmail.com">
