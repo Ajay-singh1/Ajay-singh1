@@ -35,8 +35,7 @@
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajay-singh1&show_icons=true&hide_border=true)
-<br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ajay-singh1.ajay-singh1)
 
 
