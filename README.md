@@ -1,20 +1,30 @@
+
 ### Hi there 👋
-<p><em> I am <b> Ajay </b> a passionate Computer Science Student and loves to build websites and applications. Well I am specialised in front-end web development and also I have great experience in Javascript frameworks like React.js and I am now exploring other frameworks like angular which uses typescript in its core . I am also really interested in web 3.0 technologies like solidity which are used to make smart contracts on the ethereum blockchain network.</em></p>
+<p><em>
+I am <b>Ajay</b>, a Computer Science student interested in low-level systems and
+understanding how software works beneath abstractions. I focus on systems
+programming, memory management, and operating system concepts, and I enjoy
+learning how programs interact with hardware and the OS rather than relying
+on black-box abstractions.
+</em></p>
 <br>
 
-
-
-
-
-* I love to contribute to open source software projects because it gives the opportunity to do work collaboratively also making the applications more better and   efficient. Open source also allows developers to redistribute and modify the code under a specific license which is also a major advantage .Contributing to open source softwares gives a sense of satisfaction and also enhance skills which is a major advantage.
-
+* I love contributing to open-source software projects because they provide
+the opportunity to work collaboratively on real-world codebases. Open source
+encourages clean design, code reviews, and long-term maintainability, while
+also helping me improve my problem-solving and debugging skills through
+practical experience.
 
 <ul>
- <li>I am proficient in the following technologies - <b>HTML , CSS , Javascript , React.js , C++ , MySQL , Git , Bootstrap , Tailwind CSS , Material UI , R</b>  </li></p>
- 
- <li>I also love to travel ,code and sleep.</li>
- </ul>
+ <li>
+I am proficient in the following technologies –
+<b>C, C++, Rust, Linux, Git, Shell</b>
+ </li>
 
+ <li>
+I also love to travel, code, and sleep.
+ </li>
+</ul>
 ![GIF](https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif)
 
 ### Hacktoberfest Badges
